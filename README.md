@@ -1,2 +1,2 @@
 # Machine-Learning-Models
-Thsi are ML/AI models
+This are ML/AI models
